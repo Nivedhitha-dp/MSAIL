@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | MSAIL</title>
+    <link>https://MSAIL.github.io/tag/nlp/</link>
+      <atom:link href="https://MSAIL.github.io/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 18:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://MSAIL.github.io/media/logo.png</url>
+      <title>NLP</title>
+      <link>https://MSAIL.github.io/tag/nlp/</link>
+    </image>
+    
+    <item>
+      <title>Latent Semantic Analysis</title>
+      <link>https://MSAIL.github.io/talk/lsa_102521/</link>
+      <pubDate>Mon, 25 Oct 2021 18:00:00 -0400</pubDate>
+      <guid>https://MSAIL.github.io/talk/lsa_102521/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker(s)&lt;/strong&gt;: Nisreen Bahrainwala&lt;br&gt;
+&lt;strong&gt;Topic&lt;/strong&gt;: Latent Semantic Analysis: An Overview&lt;/p&gt;
+&lt;p&gt;Latent Semantic Analysis is one of the many methods used to help computers &amp;ldquo;understand&amp;rdquo; meaning behind words and phrases, aiding with tasks such as search response relevance. This discussion will introduce the concept of LSA, some of the methods used during its development, and then explore how this technology has shaped modern NLP methods.&lt;/p&gt;
+&lt;h3 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Paper(s)&lt;/strong&gt;:&lt;br&gt;
+
+&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.333.7403&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Solution to Plato&amp;rsquo;s Problem: The Latent Semantic Analysis Theory of Acquisition, Induction, and Representation of Knowledge&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://lsa.colorado.edu/papers/dp1.LSAintro.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Introduction to Latent Semantic Analysis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harmful Bias in Natural Language Generation</title>
+      <link>https://MSAIL.github.io/talk/harmful_bias_nlg/</link>
+      <pubDate>Tue, 30 Mar 2021 18:00:00 -0400</pubDate>
+      <guid>https://MSAIL.github.io/talk/harmful_bias_nlg/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker(s)&lt;/strong&gt;: Yashmeet Gambhir&lt;br&gt;
+&lt;strong&gt;Topic&lt;/strong&gt;: Harmful Bias in Natural Language Generation&lt;/p&gt;
+&lt;p&gt;Large language models have taken over the NLP scene and have led to a surge of state-of-art development in natural language generation tasks (machine translation, story generation, chatbots, etc.). However, these models have been shown to reflect many harmful societal biases that exist in text around the internet. This talk will go over two major papers studying harmful bias in large LMs: the first identifies and quantifies this bias, the second will attempt to mitigate bias.&lt;/p&gt;
+&lt;h3 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Papers:&lt;/strong&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1909.01326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Woman worked as a Babysitter: On Biases in Language Generation&lt;/a&gt;
+
+&lt;a href=&#34;https://www.aclweb.org/anthology/2020.findings-emnlp.291.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Towards Controllable Biases in Language Generation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

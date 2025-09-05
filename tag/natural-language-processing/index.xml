@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Language Processing | MSAIL</title>
+    <link>https://MSAIL.github.io/tag/natural-language-processing/</link>
+      <atom:link href="https://MSAIL.github.io/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natural Language Processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 18:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://MSAIL.github.io/media/logo.png</url>
+      <title>Natural Language Processing</title>
+      <link>https://MSAIL.github.io/tag/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>An Overview of Attention and Transformer Mechanisms for NLP</title>
+      <link>https://MSAIL.github.io/talk/attention_031522/</link>
+      <pubDate>Tue, 15 Mar 2022 18:00:00 -0400</pubDate>
+      <guid>https://MSAIL.github.io/talk/attention_031522/</guid>
+      <description>&lt;p&gt;Nisreen explained the technical aspects of attention and self attention mechanisms, as well as explored how attention is used in the transformer architecture in order to aid in machine translation tasks.&lt;/p&gt;
+&lt;h2 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1409.0473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Machine Translation by Jointly Learning to Align and Translate, Bahdanau et al.&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attention is all you Need, Vaswani et al.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human-in-the-Loop Natural Language Processing</title>
+      <link>https://MSAIL.github.io/talk/jkk_120621/</link>
+      <pubDate>Mon, 06 Dec 2021 20:00:00 -0400</pubDate>
+      <guid>https://MSAIL.github.io/talk/jkk_120621/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker(s)&lt;/strong&gt;: Dr. Jonathan Kummerfeld&lt;br&gt;
+&lt;strong&gt;Topic&lt;/strong&gt;: Human-in-the-Loop Natural Language Processing&lt;/p&gt;
+&lt;p&gt;Dr. Kummerfeld works on NLP, with many projects crossing into HCI, either in the process of creating datasets or developing systems. In this talk, he gave a brief introduction to NLP and Crowdsourcing + Human Computation, and then dove into two research projects. First, he discussed work on task-oriented dialogue (e.g. Siri), where his team developed new ways to collect more diverse data, which in turn leads to more robust models. Second, he discussed work on understanding a set of conversations occurring in a shared channel (e.g. in Slack).&lt;/p&gt;
+&lt;h3 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jkk.name/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Kummerfeld&amp;rsquo;s Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latent Semantic Analysis</title>
+      <link>https://MSAIL.github.io/talk/lsa_102521/</link>
+      <pubDate>Mon, 25 Oct 2021 18:00:00 -0400</pubDate>
+      <guid>https://MSAIL.github.io/talk/lsa_102521/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker(s)&lt;/strong&gt;: Nisreen Bahrainwala&lt;br&gt;
+&lt;strong&gt;Topic&lt;/strong&gt;: Latent Semantic Analysis: An Overview&lt;/p&gt;
+&lt;p&gt;Latent Semantic Analysis is one of the many methods used to help computers &amp;ldquo;understand&amp;rdquo; meaning behind words and phrases, aiding with tasks such as search response relevance. This discussion will introduce the concept of LSA, some of the methods used during its development, and then explore how this technology has shaped modern NLP methods.&lt;/p&gt;
+&lt;h3 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Paper(s)&lt;/strong&gt;:&lt;br&gt;
+
+&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.333.7403&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Solution to Plato&amp;rsquo;s Problem: The Latent Semantic Analysis Theory of Acquisition, Induction, and Representation of Knowledge&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://lsa.colorado.edu/papers/dp1.LSAintro.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Introduction to Latent Semantic Analysis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://MSAIL.github.io/previous_material/nlp/</link>
+      <pubDate>Fri, 19 Feb 2021 17:00:00 +0000</pubDate>
+      <guid>https://MSAIL.github.io/previous_material/nlp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Natural Language Processing&lt;br&gt;
+&lt;strong&gt;Presenter&lt;/strong&gt;: Kevin Wang&lt;/p&gt;
+&lt;p&gt;This lesson gave a high level overview of NLP (natural language processing) and how AI can be used to work with text and speech data. Points of discussion included recurrent neural networks, LSTMs/GRUs, and GPT-3 and other transformer models.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1DjwaY3p7vb4N4V7DwvZEBQB2qxjs5okS/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You can view a recording of this lesson here.&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/178FNnk3x8euXO3NHBqQT9VT6-d9FigUVOt56Ru-Lvpo/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lesson slides&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Faculty Talk: Situated Language Processing and Embodied Dialogue</title>
+      <link>https://MSAIL.github.io/talk/chai_120120/</link>
+      <pubDate>Tue, 01 Dec 2020 18:00:00 -0400</pubDate>
+      <guid>https://MSAIL.github.io/talk/chai_120120/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker(s)&lt;/strong&gt;: 
+&lt;a href=&#34;https://web.eecs.umich.edu/~chaijy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Joyce Chai&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Topic&lt;/strong&gt;: Situated Language Processing Towards Interactive Task Learning&lt;/p&gt;
+&lt;p&gt;Prof. Chai discussed some of her research on situated language processing, which is a field describing the interaction of language and visual/motor processing in embodied, situated, and language-for-action research traditions. This research also aims to unite converging and complementary evidence from behavioral, neuroscientific, neuropsychological and computational methods.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1f0Ye_j-aa1D893AHun9to2_3rgAV7FbY/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You can find a recording of her talk here.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ijcai.org/Proceedings/2018/0001.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language to Action: Towards Interactive Task Learning with Physical Agents&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://sled-group.eecs.umich.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Situated Language and Embodied Dialogue (SLED) Group&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Summarization with Deep Learning</title>
+      <link>https://MSAIL.github.io/talk/textsummarization_111020/</link>
+      <pubDate>Tue, 10 Nov 2020 18:00:00 -0400</pubDate>
+      <guid>https://MSAIL.github.io/talk/textsummarization_111020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker(s)&lt;/strong&gt;: Yashmeet Gambhir&lt;br&gt;
+&lt;strong&gt;Topic&lt;/strong&gt;: Text Summarization with Deep Learning&lt;/p&gt;
+&lt;p&gt;Yash discussed 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Automatic_summarization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;text summarization&lt;/a&gt;, where the goal is to&amp;hellip; summarize text. More specifically, he discussed abstractive summarization, of which the goal is to generate &lt;em&gt;novel&lt;/em&gt; sentences using natural language generation techniques. One such method for doing this is using pointer-generator networks. After discussing PGNs, he went on to discuss a paper describing extreme summarization to combat model hallucination for this task. The papers discussed are linked below.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1GCeGWfC_9jF6BDlLalEpKt9-KIlq_Hvv/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You can find a recording of his talk here.&lt;/a&gt; &lt;em&gt;Unfortunately this only includes the second half of the talk about abstractive summarization, because we forgot to record starting at the beginning.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.aclweb.org/anthology/P17-1099/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get To The Point: Summarization with Pointer-Generator Networks&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://www.aclweb.org/anthology/2020.acl-main.173/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On Faithfulness and Factuality in Abstractive Summarization&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Trend Towards Large Language Models</title>
+      <link>https://MSAIL.github.io/talk/gpt3_091520/</link>
+      <pubDate>Tue, 15 Sep 2020 18:00:00 -0400</pubDate>
+      <guid>https://MSAIL.github.io/talk/gpt3_091520/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker(s)&lt;/strong&gt;: Sean Stapleton&lt;br&gt;
+&lt;strong&gt;Topic&lt;/strong&gt;: GPT-3 and its Implications&lt;/p&gt;
+&lt;p&gt;In recent years, we’ve seen 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Natural_language_processing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;natural language processing&lt;/a&gt; (NLP) performance accelerate drastically across a number of tasks, including text completion, 
+&lt;a href=&#34;https://paperswithcode.com/task/machine-translation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;machine translation&lt;/a&gt;, and 
+&lt;a href=&#34;https://paperswithcode.com/task/question-answering&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;question answering&lt;/a&gt;. Much of this performance gain has been attributed to two trends in the NLP community, namely the introduction of transformers, and the increase in model size (and consequent need for intense computational power). Capitalizing on these trends, 
+&lt;a href=&#34;https://openai.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenAI&lt;/a&gt; recently released a transformer-based model called 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/gpt-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPT-3&lt;/a&gt; with 175 billion parameters, that was trained on roughly 500 billion tokens scraped from the internet.
+This MSAIL discussion focused predominantly on three questions addressed in the paper:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Does a substantial increase in model size actually lead to better performance in downstream tasks?&lt;/li&gt;
+&lt;li&gt;Can language models effectively model intelligent and adaptable thought?&lt;/li&gt;
+&lt;li&gt;What are the biases and risks associated with training a language model on the entire internet?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Sean also covered the transformer and GPT-3 model architectures, though the focus of the discussion was not on this aspect of the paper.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/12beS3Er1AuiCbmxNR0rAiiot43xTkw_n/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You can find the recording of this talk here.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;supplemental-resources&#34;&gt;Supplemental Resources&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Papers:&lt;/strong&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://arxiv.org/abs/2005.14165&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language Models are Few-Shot Learners (Brown et al.)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Articles:&lt;/strong&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://jalammar.github.io/illustrated-transformer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Illustrated Transformer&lt;/a&gt;&lt;br&gt;
+
+&lt;a href=&#34;http://jalammar.github.io/illustrated-gpt2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Illustrated GPT-2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
